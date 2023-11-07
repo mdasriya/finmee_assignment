@@ -52,6 +52,8 @@ Steps
 - ![Screenshot (111)](https://github.com/mdasriya/moj_loading_effect_1/assets/110367868/4d9b47c3-6611-4182-ac45-0279ba287487)
 - Effect view
 - ![effect_1](https://github.com/mdasriya/moj_loading_effect_1/assets/110367868/2248d193-2b66-4792-8331-4ee684803b16)
-
-
+![Screenshot (122)](https://github.com/mdasriya/finmee_assignment/assets/110367868/aa0714d0-4c9d-4d50-a79c-38a4cc25ca73)
+![Screenshot (123)](https://github.com/mdasriya/finmee_assignment/assets/110367868/f4ecb775-ad84-4e23-bbae-55cbdae16e98)
+![Screenshot (124)](https://github.com/mdasriya/finmee_assignment/assets/110367868/38d84612-b810-4449-af58-44cf55c2dba7)
+![Screenshot (125)](https://github.com/mdasriya/finmee_assignment/assets/110367868/1ca716e1-b836-475d-897e-7adb5e8e52cb)
 
