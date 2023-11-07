@@ -31,7 +31,7 @@ Feel free to customize the description as needed and add any additional details 
 
 ## Introduction
 
-Introduce your project here. Explain what it does, why it's useful, and what problem it solves. Provide some context and background information.
+NTWIST platform leverages existing industrial metering information and infrastructure. It augments intelligence to the current automation system to aid in better control of the plant operations.
 
 ## Features
 
