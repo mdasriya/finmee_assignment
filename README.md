@@ -35,27 +35,17 @@ NTWIST platform leverages existing industrial metering information and infrastru
 
 ## Features
 
-List the key features and functionalities of your project. You can use bullet points for this.
-
-- Login and Signup create by backend Node.js
-- Search Recipe as per your choice
-- Add as Whistlist your choice of recipe 
-
 ## Getting Started
 frontend deploy link 
-https://recipeapp-iota.vercel.app/
-- to start App you have to write npm start for frontend
-- for backend npm run server
+https://finme.vercel.app/
+- to start App you have to write npm run dev for frontend
 
 
 ### Installation
 Steps
 - clone app
 - npm i for package instllation
-- npm start
+- npm run dev
 
-1. First step
-2. Second step
-3. Third step
 
 
